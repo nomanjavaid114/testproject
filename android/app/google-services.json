@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1070594627670",
+    "project_id": "antrak",
+    "storage_bucket": "antrak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070594627670:android:83ef54d74427bffa0e83f7",
+        "android_client_info": {
+          "package_name": "com.sigitechnologies.antrakuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070594627670-5bb976fl3bdjd342aperi1ah2gs494av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sigitechnologies.antrakuser",
+            "certificate_hash": "cf0555c126714359d6d3a5d76e488eae071656ed"
+          }
+        },
+        {
+          "client_id": "1070594627670-pm0muua3gbij7nd77lplp0ssjfcn5knm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sigitechnologies.antrakuser",
+            "certificate_hash": "42486f572d36d9c07cfa76ff873d26c042cd215e"
+          }
+        },
+        {
+          "client_id": "1070594627670-vgcnl8m7sod826bg5p2uimns9geeikq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sigitechnologies.antrakuser",
+            "certificate_hash": "3a03ce6797799ebf7c8c5aabad4d37e74e654d25"
+          }
+        },
+        {
+          "client_id": "1070594627670-808ak638loibctvojvn560fulscpd4fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZKNP_MwSn_YNxSixBzAodk8508czNEGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070594627670-808ak638loibctvojvn560fulscpd4fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
